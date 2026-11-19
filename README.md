@@ -1,2 +1,2 @@
 # Yozora-Hub
-Multi-game Roblox script hub with a focus on customization, automation, and user experience.
+A Roblox Murder Mystery 2 script focused on customization, automation, and user experience.
